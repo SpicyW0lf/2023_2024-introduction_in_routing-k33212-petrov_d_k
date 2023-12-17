@@ -125,6 +125,7 @@ topology:
 ![pc2](./pngs/PC2.png)
 * PC3
 ![pc3](./pngs/PC3.png)
+
 2. 2 часть работы
 * R01.SPB
 ![spbp2](./pngs/SPBp2.png)
