@@ -9,9 +9,9 @@ Group: K33212
 
 Author: Petrov Dmitry Konstantinovich
 
-Lab: Lab2
+Lab: Lab3
 
-Date of create: 13.11.2023
+Date of create: 17.12.2023
 
 Date of finished:
 
